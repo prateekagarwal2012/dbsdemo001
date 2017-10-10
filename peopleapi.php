@@ -1,6 +1,7 @@
 <?php  
       
-    class Person {  
+    class Person
+    {  
       
         var $personID;  
         var $firstName;  
